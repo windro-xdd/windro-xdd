@@ -121,18 +121,18 @@
 
 <!-- GitHub Stats Terminal Style -->
 <a href="https://github.com/windro-xdd">
-  <img src="https://github-readme-stats.vercel.app/api?username=windro-xdd&show_icons=true&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&ring_color=58a6ff&include_all_commits=true&count_private=true" height="180" alt="GitHub Stats"/>
+  <img src="https://github-stats-extended.vercel.app/api?username=windro-xdd&show_icons=true&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&ring_color=58a6ff&include_all_commits=true&count_private=true" height="180" alt="GitHub Stats"/>
 </a>
 &nbsp;
 <a href="https://github.com/windro-xdd">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=windro-xdd&layout=compact&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=8" height="180" alt="Top Languages"/>
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=windro-xdd&layout=compact&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=8" height="180" alt="Top Languages"/>
 </a>
 
 <br/><br/>
 
 <!-- Streak Stats -->
 <a href="https://github.com/windro-xdd">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=windro-xdd&hide_border=true&background=0d1117&stroke=161b22&ring=58a6ff&fire=58a6ff&currStreakLabel=c9d1d9&sideLabels=c9d1d9&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=8b949e" alt="GitHub Streak"/>
+  <img src="https://streak-stats.demolab.com/?user=windro-xdd&hide_border=true&background=0d1117&stroke=161b22&ring=58a6ff&fire=58a6ff&currStreakLabel=c9d1d9&sideLabels=c9d1d9&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=8b949e" alt="GitHub Streak"/>
 </a>
 
 <br/><br/>
