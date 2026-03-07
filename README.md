@@ -146,7 +146,7 @@
 
 <!-- Trophies -->
 <a href="https://github.com/windro-xdd">
-  <img src="https://github-profile-trophy.vercel.app/?username=windro-xdd&theme=darkhub&no-frame=true&no-bg=true&column=7&margin-w=5&margin-h=5" alt="Trophies"/>
+  <img src="https://github-trophies.vercel.app/?username=windro-xdd&theme=darkhub&no-frame=true&no-bg=true&column=7&margin-w=5&margin-h=5" alt="Trophies"/>
 </a>
 
 </div>
