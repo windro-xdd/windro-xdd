@@ -119,11 +119,6 @@
 
 <div align="center">
 
-<!-- GitHub Stats Terminal Style -->
-<a href="https://github.com/windro-xdd">
-  <img src="https://github-stats-extended.vercel.app/api?username=windro-xdd&show_icons=true&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&ring_color=58a6ff&include_all_commits=true&count_private=true" height="180" alt="GitHub Stats"/>
-</a>
-&nbsp;
 <a href="https://github.com/windro-xdd">
   <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=windro-xdd&layout=compact&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=8" height="180" alt="Top Languages"/>
 </a>
